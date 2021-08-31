@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pappuecon97
-- 👀 I’m interested in Behavioral Economics and Development Economics
+- 👀 I’m interested in Behavioral Economics, Development Economics, and Experimental Economics.
 - 🌱 I’m currently learning R and Matlab
 
 <!---
